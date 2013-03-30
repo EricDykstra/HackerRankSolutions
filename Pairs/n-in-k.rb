@@ -15,5 +15,5 @@ numbers.each_with_index do |x, i|
 end
 p count
 
-file = STDIN.readlines
-contents = file.join(" ")
+# file = STDIN.readlines
+# contents = file.join(" ")
