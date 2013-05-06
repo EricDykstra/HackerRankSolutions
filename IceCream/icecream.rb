@@ -10,6 +10,7 @@ def find_icecreams(icecreams,x,cash,i)
     index = (reverse.length - reverse.index(cash-x))
     return "#{i+1} #{index}"
   end
+  nil
 end
 
 def define_icecreams(x)
@@ -19,6 +20,7 @@ def define_icecreams(x)
     right = find_icecreams(icecreams,x,cash,i)
     return right if not right == nil
   end
+  nil
 end
 
 array.each_slice(3) do |x|
