@@ -1,5 +1,5 @@
-### Leibniz formula for Pi implementation (code golf)
-## Work in progress
+## Leibniz formula for Pi implementation (code golf)
+### Work in progress
 
 Leibniz formula for Pi: http://en.wikipedia.org/wiki/Leibniz_formula_for_%CF%80
 

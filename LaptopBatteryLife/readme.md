@@ -1,4 +1,4 @@
-### Laptop Battery Life
+## Laptop Battery Life
 
 Fred is a very predictable man. For instance, when he uses his laptop, all he does is watch TV shows. He always watches until his battery dies. He is also a very meticulous man. He has kept logs of every time he has charged his laptop, which includes how long he charged his laptop for and how long he was able to watch TV for afterwards. Now, Fred wants to use this log to predict how long he will be able to watch TV for when he starts so that he can plan his activites after watching his TV shows accordingly.
 
